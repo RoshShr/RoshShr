@@ -84,8 +84,14 @@ Storytelling · Problem Solving · Analytical Thinking · Collaboration
 ### 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshShr&show_icons=true&theme=tokyonight" alt="Roshan’s GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshShr&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <a href="https://github.com/RoshShr">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RoshShr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshShr&layout=compact&theme=tokyonight&langs_count=6" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshShr&theme=tokyonight" />
 </p>
 
 ---
