@@ -1,0 +1,13 @@
+*.ipynb linguist-detectable=false
+*.sql   linguist-language=SQL
+
+
+
+
+
+
+
+
+
+
+chore: tweak linguist for SQL & notebooks
