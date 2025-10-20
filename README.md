@@ -83,19 +83,38 @@ Storytelling · Problem Solving · Analytical Thinking · Collaboration
 
 ### 📈 GitHub Analytics  
 
+---
 <p align="center">
   <a href="https://github.com/RoshShr">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RoshShr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshShr&layout=compact&theme=tokyonight&langs_count=6" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=RoshShr&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&v=1" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshShr&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=github_dark&hide_border=true&v=1" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshShr&theme=tokyonight" />
+  <a href="https://git.io/streak-stats">
+    <img height="190" src="https://streak-stats.demolab.com?user=RoshShr&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily&fire=EB5454&ring=3B82F6&currStreakNum=FFFFFF&sideNums=9EC1FE&currStreakLabel=9EC1FE&sideLabels=FFFFFF&v=1" alt="GitHub Streak" />
+  </a>
 </p>
 
----
+<!-- Profile Summary Cards (overview + repos/languages) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshShr&theme=github_dark&v=1" alt="Profile Details" />
+</p>
 
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshShr&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&v=1" alt="Contribution Activity Graph" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoshShr&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10&v=1" alt="Trophies" />
+</p>
+
+
+  ---
 ### 🌐 Connect with Me  
 
 <p align="left">
