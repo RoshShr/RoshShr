@@ -36,9 +36,13 @@ Outside of work, I enjoy **sports** and listening to **spiritual podcasts**.
   Analyzed KPIs for a pizza store using SQL & Tableau to uncover sales trends, best-selling products, and customer preferences.
 
   **⚙️ Tools Used**
-
-     ◉  Excel      ◉  MS SQL    ◉  Tableau      
-
+    <p align="left">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="40" />
+    </p>
 - 🍽️ **Python Projects: **  [Bank Loan Analysis](https://github.com/RoshShr/Python-Projects---Data-Analytics/tree/main/Bank%20Loan%20Analysis)
   Solved complex business questions for a restaurant chain using SQL — focusing on data cleaning, aggregation, and insights.
 
