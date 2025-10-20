@@ -30,12 +30,16 @@ Outside of work, I enjoy **sports** and listening to **spiritual podcasts**.
 
 ---
 
-### 🔭 What I'm Currently Working On  
+### 🔭 What I've Worked On So Far  
 
-- 🥇 **[Pizza Sales Analysis Dashboard](https://github.com/RoshShr/Pizza-Sales-Analysis)**  
+- 🥇 **Multi-Tools Projects: [Pizza Sales Analysis Dashboard](https://github.com/RoshShr/Pizza-Sales-Analysis)**  
   Analyzed KPIs for a pizza store using SQL & Tableau to uncover sales trends, best-selling products, and customer preferences.
 
-- 🍽️ **Danny’s Diner SQL Case Study**  
+  **⚙️ Tools Used**
+
+     ◉  Excel      ◉  MS SQL    ◉  Tableau      
+
+- 🍽️ **Python Projects: **  [Bank Loan Analysis](https://github.com/RoshShr/Python-Projects---Data-Analytics/tree/main/Bank%20Loan%20Analysis)
   Solved complex business questions for a restaurant chain using SQL — focusing on data cleaning, aggregation, and insights.
 
 ---
