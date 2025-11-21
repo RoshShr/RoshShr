@@ -1,7 +1,7 @@
 <!-- 👋 Hi there, I'm Roshan Shrestha -->
 <h1 align="center">Hi there, I'm Roshan Shrestha 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Continuous+Learning+and+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=Data+Analytics+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Continuous+Learning+and+Development" alt="Typing SVG" />
 </div>
 
 
@@ -24,7 +24,7 @@
 I'm an aspiring **Data Analyst** passionate about helping organizations turn messy datasets into meaningful stories and actionable insights.  
 I love automating manual reporting, building dashboards that drive smarter business decisions, and uncovering patterns that inform future strategy.
 
-📊 I believe data analysis is not just about numbers — it’s about **transforming information into impact**.  
+📊 I believe data analysis is not just about numbers — it’s about **transforming raw information into impact**.  
 
 Outside of work, I enjoy **sports** and listening to **spiritual podcasts**.
 
@@ -62,7 +62,7 @@ Outside of work, I enjoy **sports** and listening to **spiritual podcasts**.
 `Python (Pandas, NumPy, Matplotlib, Seaborn)` · `SQL (MySQL, PostgreSQL)` · `Tableau` · `Excel`  
 
 **Data Cleaning & Transformation:**  
-`Power Query` · `ETL Pipelines` · `Data Wrangling`  
+`Power Query` · `ETL Pipelines` · `Data Wrangling`
 
 **Business Tools:**  
 `Google Sheets` · `MS Power BI` · `Canva`  
