@@ -1,7 +1,7 @@
 <!-- 👋 Hi there, I'm Roshan Shrestha -->
 <h1 align="center">Hi there, I'm Roshan Shrestha 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=Data+Analytics+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Continuous+Learning+and+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=470&lines=Data+Analytics+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Continuous+Learning+and+Development" alt="Typing SVG" />
 </div>
 
 
@@ -42,6 +42,8 @@ Outside of work, I enjoy **sports** and listening to **spiritual podcasts**.
     <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="40" />
+     &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Data Bricks-E97627?style=for-the-badge&logo=databricks&logoColor=white" height="40" />
     </p>
 - 🍽️ **Python Projects: **  [Bank Loan Analysis](https://github.com/RoshShr/Python-Projects---Data-Analytics/tree/main/Bank%20Loan%20Analysis)
   Solved complex business questions for a restaurant chain using SQL — focusing on data cleaning, aggregation, and insights.
